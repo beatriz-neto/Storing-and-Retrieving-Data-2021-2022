@@ -35,4 +35,5 @@ what means “best”)
 years, as in the following example. This query only returns one record:
 
 | PeriodOfSales    | TotalSales (euros)      | YearlyAverage (of the given period)       | MonthlyAverage (of the given period)     |
+|----------|----------------|--------------------| -------------|
 |01/2010 – 10/2021  |  XXXXX € | XXXXX € | XXXX € |
